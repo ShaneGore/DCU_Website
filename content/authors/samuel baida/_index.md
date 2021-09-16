@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Clare Lillis
+title: Dr samuel baida
 
 # Username (this should match the folder name)
 authors:
-- Clare Lillis
+- samuel baida
 
 # Is this the primary user of the site?
 superuser: false
