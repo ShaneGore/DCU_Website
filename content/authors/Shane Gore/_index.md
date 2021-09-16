@@ -10,32 +10,38 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Post Doctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Insight Centre for Data Analytics
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include the Biomechanic of injury, movement complexity and machine learning.
+ 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Biomechanics
+- Data Analytics
+- Human Health
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: MSc in Data Analytics
+    institution: National College of Ireland
+    year: 2020
+  - course: PhD in Biomechanics and Analytics
+    institution: Insight Centre for Data Analytics, Dublin City University
+    year: 2018
+  - course: MSc in Sports Biomechanics
+    institution: Liverpool John Moores University
+    year: 2013
+  - course: BSc in Sports Science
+    institution: Dublin City Univeristy
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +50,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:shane.gore2@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/@ShaneGore88
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=Sfpi6kEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ShaneGore
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +75,6 @@ user_groups:
 - Researchers
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a researcher working at the interface of biomechanics and data science. My research to date has largely focused on the biomechanics of injury, utilizing 3D motion capture technologies, wearable sensors, and leveraging data analytics to uncover meaningful insights from the data.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have experience in the design, implementation, and supervision of research projects, along with the communication of complex findings in a clear and effective manner to a wide variety of audiences.
