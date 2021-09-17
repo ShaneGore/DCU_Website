@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: 
 tags:
-- Injury Research
+- 
 title: Sports Surgery Clinic
 ---
