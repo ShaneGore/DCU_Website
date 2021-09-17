@@ -10,7 +10,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 #slides: example
-summary: Research in collaboration with a world leadinf orthopedic hospital
+summary: Research in collaboration with a world leading orthopedic hospital
 tags:
 - 
 title: Sports Surgery Clinic

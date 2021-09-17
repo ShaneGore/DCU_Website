@@ -8,12 +8,12 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
-summary: An example of using the in-built project page.
+  url: https://twitter.com/DCU_RISC_Study
+#slides: example
+summary: Prospective cohort research into running related injuries
 tags:
-- Deep Learning
-title: Internal Project
+- 
+title: Running Injury Surveillance Centre
 url_code: ""
 url_pdf: ""
 url_slides: ""
