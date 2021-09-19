@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: DCU Injury and Performance Research Group # Website name
-baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://github.com/ShaneGore/DCU_Website' # Website URL
+copyright: 'Created by Shane Gore. Powered by Hugo' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
