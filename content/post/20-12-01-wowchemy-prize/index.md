@@ -3,8 +3,9 @@ title: Part 2 of our Running Injury Surveillance Centre (RISC) research launched
 date: 2020-12-01
 featured: true
 image:
+  placement: 1
   filename: featured.png
-  focal_point: SMART
+  focal_point: Center
 ---
 Following on from our successful RISC 1 study...
 
