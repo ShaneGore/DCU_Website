@@ -1,7 +1,7 @@
 ---
 title: Aisling Lacey
 role: PhD student
-avatar_filename: avatar.jpg
+avatar_filename: avatar.jpeg
 organizations:
   - name: Stanford University
     url: ""
