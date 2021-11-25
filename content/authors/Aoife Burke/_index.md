@@ -6,7 +6,7 @@ superuser: false
 authors:
   - Aoife Burke
 title: Aoife Burke
-role: Assistant Professor and PhD Student
+role: PhD Student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
