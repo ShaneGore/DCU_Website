@@ -1,6 +1,6 @@
 ---
 title: Dr Brendan Marshal
-role: Professor of Artificial Intelligence
+role: ""
 avatar_filename: avatar.jpg
 organizations:
   - name: Stanford University
