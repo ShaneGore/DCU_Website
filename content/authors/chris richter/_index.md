@@ -1,19 +1,13 @@
 ---
 title: Dr Chris Richter
-role: Professor of Artificial Intelligence
+role: ""
 avatar_filename: avatar.jpg
-organizations:
-  - name: Stanford University
-    url: ""
+organizations: []
 superuser: false
 authors:
   - chris richter
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+bio: ""
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,21 +22,17 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: []
 email: ""
 user_groups:
   - Alumni
 ---
+<!--StartFragment-->
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chris completed his PhD at Dublin City University in the Health and Human Performance Department and CLARITY: Centre for Sensor Web Technologies in 2013. His thesis title was "A Comparison of analysis techniques in biomechanics"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Chris then worked as a postdoctorial researcher with Insight Centre for Data Analytics.
+
+As of 2022, Chris has gone on  to work at the Sports Surgery Clinic, Y Food Labs, and is currently working as a Senior Data Scientist at Kaia Health
+
+<!--EndFragment-->
