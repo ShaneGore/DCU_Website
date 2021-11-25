@@ -1,14 +1,14 @@
 ---
+title: Dr Neil Welch
+role: ""
+avatar_filename: avatar.jpeg
 organizations:
   - name: Stanford University
     url: ""
 superuser: false
 authors:
   - amin ahmadi
-title: Dr Neil Welch
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -41,7 +41,6 @@ email: ""
 user_groups:
   - Alumni
 ---
+Neil completed his PhD with the research group in 2019. His title of his thesis was "The Role of Maximum Strength, Explosive Strength, Reactive Strength and Deceleration in Rehabilitation and Performance".
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+As of 2022, Neil currently works at the Sports Surgery Clinic
