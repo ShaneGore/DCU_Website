@@ -9,18 +9,14 @@ authors:
 bio: ""
 interests: []
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://scholar.google.com/citations?hl=en&user=m0UqKZAAAAAJ
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/amin-ahmadi-97487822/
     icon_pack: fab
-    link: https://github.com/gcushen
+    icon: linkedin
 education:
   courses: []
 email: ""
