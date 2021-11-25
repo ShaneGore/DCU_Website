@@ -28,7 +28,7 @@ social:
     link: https://github.com/ShaneGore
   - display:
       header: false
-    icon: Linkedin
+    icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/shanegore/
 education:
