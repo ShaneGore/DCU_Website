@@ -9,18 +9,12 @@ authors:
 bio: ""
 interests: []
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+  - icon: linkedin
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.linkedin.com/in/dr-chris-richter-18b29a39/
 education:
   courses: []
 email: ""
