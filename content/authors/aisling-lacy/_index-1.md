@@ -1,7 +1,7 @@
 ---
 title: Aisling Lacey
 role: Professor of Artificial Intelligence
-avatar_filename: avatar.jpg.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: Stanford University
     url: ""
