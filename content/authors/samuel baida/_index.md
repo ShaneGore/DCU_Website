@@ -1,6 +1,6 @@
 ---
 title: Dr Samuel Baida
-role: Professor of Artificial Intelligence
+role: ""
 avatar_filename: avatar.jpeg
 organizations:
   - name: Stanford University
@@ -8,8 +8,7 @@ organizations:
 superuser: false
 authors:
   - samuel baida
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -28,21 +27,11 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: []
 email: ""
 user_groups:
   - Alumni
 ---
+Sam completed his PhD with the research group in 2021. His thesis title was: The Effects of Rehabilitation on Athletic Groin Pain: Neuromuscular and Biomechanical Factors.
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+As of 2022, Sam currently works with the Sports Surgery Clinic.
