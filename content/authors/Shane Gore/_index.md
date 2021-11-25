@@ -26,6 +26,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/ShaneGore
+  - display:
+      header: false
+    icon: Linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/shanegore/
 education:
   courses:
     - course: MSc in Data Analytics
