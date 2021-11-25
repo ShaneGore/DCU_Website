@@ -23,9 +23,6 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=Sfpi6kEAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/ShaneGore
   - display:
       header: false
     icon: linkedin
