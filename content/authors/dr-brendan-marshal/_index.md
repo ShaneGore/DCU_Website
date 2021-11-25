@@ -1,12 +1,13 @@
 ---
+title: Dr Brendan Marshal
+role: Professor of Artificial Intelligence
+avatar_filename: avatar.jpg
 organizations:
   - name: Stanford University
     url: ""
 superuser: false
 authors:
   - amin ahmadi
-title: Dr Brendan Marshal
-role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
