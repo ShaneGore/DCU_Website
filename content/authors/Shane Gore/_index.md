@@ -42,7 +42,7 @@ education:
       year: 2012
 email: ""
 user_groups:
-  - Alumni
+  - Researcher
 ---
 
 I am a researcher working at the interface of biomechanics and data science. My research to date has largely focused on the biomechanics of injury, utilizing 3D motion capture technologies, wearable sensors, and leveraging data analytics to uncover meaningful insights from the data.
